@@ -1,0 +1,1 @@
+const availableImg = ["li2021prefix","rennie2017self","anderson2018bottom","anderson2016spice","li2023blip","li2020oscar","9706348","cornia2020meshed","hessel2021clipscore","wang2022git"];
